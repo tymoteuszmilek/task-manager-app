@@ -1,7 +1,7 @@
 # Personal Task Manager
 
 ## Overwie
-[sample_view](screenshots/sample_view.png)
+![sample_view](screenshots/sample_view.png)
 A simple task manager application built with React. This app allows users to manage their tasks effectively by adding, editing, deleting, and toggling the completion status of tasks. 
 
 ## Features
